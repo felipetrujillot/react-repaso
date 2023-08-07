@@ -4,7 +4,7 @@
     background-image: url('/img/pexels-pixabay-209756.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    filter: brightness(0.7) saturate(1.2)
+    filter: brightness(0.8) saturate(1.2)
 }
 
 .wrapper {
